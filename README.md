@@ -25,8 +25,6 @@
 ---
 
 ## Как запустить
-
-1. Запуск:
    ```bash
    python tcp_server.py
    python tcp_client.py
