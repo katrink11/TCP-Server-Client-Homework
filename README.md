@@ -1,6 +1,6 @@
 # TCP Server and Client Homework
 # 5.1 Homework, задача “минимум” (5 баллов)
-#Реализовать TCP server (или UDP-server)
+# Реализовать TCP server (или UDP-server)
 
 содержит реализацию TCP-сервера и TCP-клиента для выполнения домашнего задания.
 
